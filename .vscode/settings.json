@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "format": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "xlocmes": "cpp",
+        "xlocmon": "cpp",
+        "xlocnum": "cpp",
+        "xloctime": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
