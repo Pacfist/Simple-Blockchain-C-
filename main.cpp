@@ -101,8 +101,6 @@ int main()
 
     createBlock("Keramika", 52, blockChain);
 
-    createBlock("Gojo Satoru", 63, blockChain);
-
     createBlock("Lipton", -1, blockChain);
 
     cout << checkBlockChain(blockChain) << endl;
